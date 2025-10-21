@@ -4,4 +4,12 @@
 ### David
 #### David
 
-Esta tarde voy a estudiar IPO-1 ya que el miércoles (mañana) tenemos un examen muy importante sobre esta materia. Ayer estuve haciendome resumenes para hoy estudiar bien.
+Esta tarde voy a estudiar **IPO-1** ya que el miércoles (mañana) tenemos un examen **muy importante** sobre esta materia. Ayer estuve haciendome resumenes para hoy estudiar bien.
+
+* Leche
+* Papas
+* Ketchup
+
+1. Gazpacho
+2. Queso
+3. Fuet
